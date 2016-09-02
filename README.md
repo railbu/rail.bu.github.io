@@ -1,2 +1,2 @@
-# rail.bu.github.io
+# railbu.github.io
 blog
